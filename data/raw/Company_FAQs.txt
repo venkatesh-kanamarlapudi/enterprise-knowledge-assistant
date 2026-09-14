@@ -1,0 +1,67 @@
+NIMBUSTECH SOLUTIONS - COMPANY FAQs
+Document Owner: Human Resources Department
+Effective Date: January 1, 2025
+
+Q1: How many casual leaves am I entitled to per year?
+A1: Employees are entitled to 12 days of Casual Leave per year. No more than
+3 consecutive Casual Leave days may be taken at a time.
+
+Q2: Can I carry forward my unused earned leave to next year?
+A2: Yes. Up to 10 days of unused Earned Leave may be carried forward to the
+next calendar year. Any Earned Leave beyond 10 days will lapse unless encashed.
+
+Q3: What is the notice period if I resign?
+A3: The standard notice period is 60 days for confirmed employees and 15 days
+during probation. Employees may buy out the remaining notice period subject
+to manager approval.
+
+Q4: How do I report a lost or stolen laptop?
+A4: Report any lost or stolen device to IT Security within 1 hour of discovery
+by emailing security@nimbustech.example.com or calling the IT Helpdesk.
+
+Q5: What health insurance coverage do I get?
+A5: NimbusTech provides Group Mediclaim Insurance covering the employee, spouse,
+and up to 2 dependent children with a base sum insured of INR 5,00,000 per year.
+A top-up plan of an additional INR 5,00,000 is also available.
+
+Q6: What are the standard working hours?
+A6: Standard working hours are 9:30 AM to 6:30 PM, Monday to Friday, with a
+1-hour lunch break. NimbusTech also follows a flexible working hours policy
+allowing employees to start between 8:30 AM and 10:30 AM.
+
+Q7: How much daily allowance (per diem) do I get during business travel?
+A7: Domestic travel: INR 1,500 per day. International travel: USD 60 per day,
+varying by country as per the Finance per-diem chart.
+
+Q8: Is Work From Home (WFH) allowed?
+A8: Employees may request occasional WFH via the HR portal, subject to manager
+approval. Fully remote roles are evaluated on a case-by-case basis.
+
+Q9: What should I do if I receive a suspicious/phishing email?
+A9: Report it immediately to security@nimbustech.example.com using the "Report
+Phishing" button in Outlook/Gmail. Do not click any links or open attachments.
+
+Q10: How is my annual bonus determined?
+A10: Bonus payouts are influenced by your performance rating from the
+twice-yearly performance review process (April and October), combined with
+company and team performance.
+
+Q11: Can I get reimbursed for a gym membership?
+A11: Yes, subsidized gym membership reimbursement is available up to
+INR 2,000 per month under the Wellness Benefits program.
+
+Q12: What is the maternity leave entitlement?
+A12: Female employees are entitled to 26 weeks of paid Maternity Leave for the
+first two children, and 12 weeks from the third child onward.
+
+Q13: Who do I contact for a workplace grievance?
+A13: Raise the matter first with your reporting manager. If unresolved within
+5 working days, escalate to hr-grievance@nimbustech.example.com.
+
+Q14: Do I need approval before installing software on my laptop?
+A14: Yes. Only IT-approved software may be installed. Submit a request via the
+IT Service Desk, which is typically reviewed within 2 business days.
+
+Q15: What is the probation period for new employees?
+A15: New employees undergo a 6-month probation period, with performance
+reviewed at the 3-month and 6-month marks.
