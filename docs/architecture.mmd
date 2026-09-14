@@ -1,0 +1,28 @@
+flowchart TD
+    A[Company Documents<br/>PDF / DOCX / MD / TXT] --> B[Document Loader<br/>PyPDF / Docx2txt / Markdown / Text]
+    B --> C[Chunking<br/>Recursive Character Splitter]
+    C --> D[Embeddings<br/>sentence-transformers MiniLM]
+    D --> E{Vector Store}
+    E --> E1[FAISS]
+    E --> E2[ChromaDB]
+    C --> F[BM25 Keyword Index]
+
+    Q[User Query] --> M[Conversation Memory<br/>Condense follow-up question]
+    M --> R1[Vector / Semantic Search]
+    M --> R2[BM25 Keyword Search]
+    E1 -.-> R1
+    E2 -.-> R1
+    F -.-> R2
+
+    R1 --> H[Hybrid Fusion<br/>Reciprocal Rank Fusion]
+    R2 --> H
+    H --> RR[Reranking<br/>Cross-Encoder]
+    RR --> CTX[Relevant Context + Sources]
+    CTX --> LLM{LLM Provider}
+    LLM --> L1[OpenAI GPT]
+    LLM --> L2[Google Gemini]
+    M --> LLM
+
+    LLM --> ANS[Grounded Answer + Source Citations]
+    ANS --> UI[Streamlit Chat UI]
+    UI --> Q
